@@ -57,11 +57,11 @@
       "headless": true,
       "http_directory": "http",
       "iso_urls": [
-        "iso/ubuntu-12.04.5-server-amd64.iso",
-        "http://releases.ubuntu.com/precise/ubuntu-12.04.5-server-amd64.iso"
+        "iso/ubuntu-12.04.4-server-amd64.iso",
+        "http://releases.ubuntu.com/12.04/ubuntu-12.04.4-server-amd64.iso"
       ],
       "iso_checksum_type": "md5",
-      "iso_checksum": "769474248a3897f4865817446f9a4a53",
+      "iso_checksum": "e83adb9af4ec0a039e6a5c6e145a34de",
       "ssh_username": "vagrant",
       "ssh_password": "vagrant",
       "ssh_port": 22,
