@@ -16,7 +16,7 @@ The following software must be installed/present on your local machine before yo
   - [Packer](http://www.packer.io/)
   - [Vagrant](http://vagrantup.com/)
   - [VirtualBox](https://www.virtualbox.org/) (if you want to build the VirtualBox box)
-  - [VMWare Fusion](http://www.vmware.com/products/fusion/) (or Workstation - if you want to build the VMware box)
+  - [VMware Fusion](http://www.vmware.com/products/fusion/) (or Workstation - if you want to build the VMware box)
   - [Ansible](http://docs.ansible.com/intro_installation.html)
 
 You will also need some Ansible roles installed so they can be used in the building of the VM. To install the roles:
