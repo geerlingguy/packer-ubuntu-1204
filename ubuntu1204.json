@@ -52,7 +52,7 @@
         "<enter><wait>"
       ],
       "boot_wait": "10s",
-      "disk_size": 20480,
+      "disk_size": 81920,
       "guest_os_type": "Ubuntu_64",
       "headless": true,
       "http_directory": "http",
@@ -112,7 +112,7 @@
         "<enter><wait>"
       ],
       "boot_wait": "10s",
-      "disk_size": 20480,
+      "disk_size": 81920,
       "guest_os_type": "ubuntu-64",
       "headless": true,
       "http_directory": "http",
