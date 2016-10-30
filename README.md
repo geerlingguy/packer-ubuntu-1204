@@ -2,6 +2,11 @@
 
 **Current Ubuntu Version Used**: 12.04.5
 
+**Pre-built Vagrant Box**:
+
+  - [`vagrant init geerlingguy/ubuntu1204`](https://vagrantcloud.com/geerlingguy/boxes/ubuntu1204)
+  - See older versions: http://files.midwesternmac.com/
+
 This example build configuration installs and configures Ubuntu 12.04 x86_64 minimal using Ansible, and then generates two Vagrant box files, for:
 
   - VirtualBox
